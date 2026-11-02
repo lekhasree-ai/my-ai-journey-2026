@@ -25,3 +25,12 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🚀
 - **Today's Focus:** Wrote my very first Python script in Google Colab combining basic printing and physics math.
 - **Next Up:** Experimenting with Python variables and lists.
+
+
+---
+
+### Day 4 - November 2, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Learned about user input (`input()`) and conditional statements (`if/else`) in Python by building a grade checker.
+- **Next Up:** Continuing the Python journey tomorrow!
+- 
