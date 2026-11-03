@@ -34,3 +34,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Today's Focus:** Learned about user input (`input()`) and conditional statements (`if/else`) in Python by building a grade checker.
 - **Next Up:** Continuing the Python journey tomorrow!
 - 
+
+
+---
+
+### Day 5 - November 3, 2026
+- **Status:** Streak maintained! 🚀
+- **Today's Focus:** Mastered multi-tier conditional logic (`if`, `elif`, `else`) in Python by building a complete grade classifier.
+- **Next Up:** Continuing the AI & ML coding journey tomorrow!
