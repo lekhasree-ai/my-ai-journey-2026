@@ -42,3 +42,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🚀
 - **Today's Focus:** Mastered multi-tier conditional logic (`if`, `elif`, `else`) in Python by building a complete grade classifier.
 - **Next Up:** Continuing the AI & ML coding journey tomorrow!
+
+
+---
+
+### Day 6 - November 4, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Learned about repetition using `for` loops and `range()` in Python.
+- **Next Up:** Continuing the AI & ML journey tomorrow!
