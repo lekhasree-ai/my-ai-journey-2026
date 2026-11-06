@@ -58,3 +58,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** One-week streak completed! 🎉🔥
 - **Today's Focus:** Learned about Python Lists and how to loop through datasets using `for` loops.
 - **Next Up:** Continuing the AI & ML journey tomorrow!
+
+
+---
+
+### Day 8 - November 6, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Combined lists and loops to calculate totals and averages using `len()` for dynamic data analysis.
+- **Next Up:** Continuing the AI & ML journey tomorrow!
