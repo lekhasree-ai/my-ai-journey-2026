@@ -66,3 +66,12 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Combined lists and loops to calculate totals and averages using `len()` for dynamic data analysis.
 - **Next Up:** Continuing the AI & ML journey tomorrow!
+
+
+---
+
+### Day 9 - November 7, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Built a peak-finding algorithm using loops and conditional statements to find the highest mark in a dataset.
+- **Next Up:** Continuing the AI & ML journey tomorrow!
+- 
