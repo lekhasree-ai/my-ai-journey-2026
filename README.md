@@ -75,3 +75,12 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Today's Focus:** Built a peak-finding algorithm using loops and conditional statements to find the highest mark in a dataset.
 - **Next Up:** Continuing the AI & ML journey tomorrow!
 - 
+
+
+---
+
+### Day 10 - November 8, 2026
+- **Status:** Double digits unlocked! 🚀🔥
+- **Today's Focus:** Learned about Python functions (`def`) to write reusable blocks of code and tested them with multiple inputs.
+- **Next Up:** Continuing the AI & ML journey tomorrow!
+- 
