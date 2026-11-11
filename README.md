@@ -99,3 +99,10 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Mastered Python Dictionaries to store and retrieve structured key-value data records.
 - **Next Up:** Continuing the AI & ML journey tomorrow!
+
+- ---
+
+### Day 13 - November 11, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Built a mini dataset by combining lists and dictionaries, and looped through records to extract specific features.
+- **Next Up:** Continuing the AI & ML journey tomorrow!
