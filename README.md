@@ -106,3 +106,10 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Built a mini dataset by combining lists and dictionaries, and looped through records to extract specific features.
 - **Next Up:** Continuing the AI & ML journey tomorrow!
+
+---
+
+### Day 14 - November 12, 2026
+- **Status:** Two-week streak completed! 🎉🔥
+- **Today's Focus:** Combined functions, loops, conditions, and dictionaries to build a dataset analysis tool that identifies the top-scoring record.
+- **Next Up:** Starting Week 3 of the AI & ML journey tomorrow!
