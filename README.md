@@ -113,3 +113,10 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Two-week streak completed! 🎉🔥
 - **Today's Focus:** Combined functions, loops, conditions, and dictionaries to build a dataset analysis tool that identifies the top-scoring record.
 - **Next Up:** Starting Week 3 of the AI & ML journey tomorrow!
+
+---
+
+### Day 15 - November 13, 2026
+- **Status:** Week 3 kicked off! 🚀🔥
+- **Today's Focus:** Stepped beyond the 11th-grade syllabus into real-world AI libraries by importing **NumPy** (`import numpy as np`), converting lists into high-speed arrays, and performing vectorized math (`np.mean`, `np.max`, and array addition) without loops.
+- **Next Up:** Exploring more NumPy tools for AI and data science tomorrow!
