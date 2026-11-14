@@ -120,3 +120,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Week 3 kicked off! 🚀🔥
 - **Today's Focus:** Stepped beyond the 11th-grade syllabus into real-world AI libraries by importing **NumPy** (`import numpy as np`), converting lists into high-speed arrays, and performing vectorized math (`np.mean`, `np.max`, and array addition) without loops.
 - **Next Up:** Exploring more NumPy tools for AI and data science tomorrow!
+
+
+---
+
+### Day 16 - November 14, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Built 2D NumPy matrices (rows and columns), checked dataset dimensions using `.shape`, and computed row-wise (`axis=1`) and column-wise (`axis=0`) averages.
+- **Next Up:** Learning NumPy array slicing and indexing to extract specific data subsets tomorrow!
