@@ -128,3 +128,10 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Built 2D NumPy matrices (rows and columns), checked dataset dimensions using `.shape`, and computed row-wise (`axis=1`) and column-wise (`axis=0`) averages.
 - **Next Up:** Learning NumPy array slicing and indexing to extract specific data subsets tomorrow!
+
+---
+
+### Day 17 - November 15, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Mastered 2D NumPy indexing and slicing (`[row, column]`) to extract individual values, full rows, and specific feature columns for analysis.
+- **Next Up:** Learning Boolean masking and filtering in NumPy to query datasets like a data scientist tomorrow!
