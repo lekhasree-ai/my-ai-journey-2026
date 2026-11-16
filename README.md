@@ -135,3 +135,10 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Mastered 2D NumPy indexing and slicing (`[row, column]`) to extract individual values, full rows, and specific feature columns for analysis.
 - **Next Up:** Learning Boolean masking and filtering in NumPy to query datasets like a data scientist tomorrow!
+
+---
+
+### Day 18 - November 16, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Learned Boolean masking and conditional filtering in NumPy (`scores[scores >= 80]`) to query and clean datasets without loops.
+- **Next Up:** Wrapping up NumPy foundations by exploring array reshaping and random data generation for AI simulations tomorrow!
