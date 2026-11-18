@@ -149,3 +149,10 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Generated synthetic datasets with `np.random.randint()` and reshaped 1D data streams into 2D matrices using `.reshape(5, 3)` for row-wise analysis.
 - **Next Up:** Stepping into **Pandas**—the #1 Python library for working with real-world labeled spreadsheets and DataFrames tomorrow!
+
+---
+
+### Day 20 - November 18, 2026
+- **Status:** 20-Day Milestone Reached! 🔥
+- **Today's Focus:** Transitioned from NumPy to **Pandas**—created my first labeled DataFrame from a Python dictionary and explored it using `.head()`, `.describe()`, column indexing (`df["CS"]`), and `.mean()`.
+- **Next Up:** Filtering rows, adding calculated columns (like Total and Percentage), and sorting DataFrames in Pandas tomorrow!
