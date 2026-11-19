@@ -156,3 +156,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** 20-Day Milestone Reached! 🔥
 - **Today's Focus:** Transitioned from NumPy to **Pandas**—created my first labeled DataFrame from a Python dictionary and explored it using `.head()`, `.describe()`, column indexing (`df["CS"]`), and `.mean()`.
 - **Next Up:** Filtering rows, adding calculated columns (like Total and Percentage), and sorting DataFrames in Pandas tomorrow!
+
+
+---
+
+### Day 21 - November 19, 2026
+- **Status:** 3-Week Streak Milestone! 🔥
+- **Today's Focus:** Engineered new calculated columns (`Total` and `Average`), filtered rows conditionally (`df[df["CS"] > 90]`), and ranked records using `.sort_values(by="Total", ascending=False)` in Pandas.
+- **Next Up:** Learning how real AI engineers handle messy datasets—fixing missing values (`NaN`) and cleaning data in Pandas tomorrow!
