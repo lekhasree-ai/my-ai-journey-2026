@@ -164,3 +164,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** 3-Week Streak Milestone! 🔥
 - **Today's Focus:** Engineered new calculated columns (`Total` and `Average`), filtered rows conditionally (`df[df["CS"] > 90]`), and ranked records using `.sort_values(by="Total", ascending=False)` in Pandas.
 - **Next Up:** Learning how real AI engineers handle messy datasets—fixing missing values (`NaN`) and cleaning data in Pandas tomorrow!
+
+
+---
+
+### Day 22 - November 20, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Learned real-world data cleaning in Pandas—detected missing values (`NaN`) with `.isnull().sum()`, compared dropping incomplete rows (`.dropna()`) vs. mean imputation (`.fillna()`).
+- **Next Up:** Grouping data and aggregating insights with `.groupby()` in Pandas tomorrow!
