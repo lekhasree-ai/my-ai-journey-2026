@@ -188,3 +188,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Built my first data visualizations using **Matplotlib** (`matplotlib.pyplot`)—created a labeled bar chart comparing student CS scores and a line plot tracking AI model accuracy across training epochs.
 - **Next Up:** Exploring scatter plots, histograms, and multi-line comparisons in Matplotlib/Seaborn tomorrow!
+
+
+---
+
+### Day 25 - November 23, 2026
+- **Status:** 25-Day Milestone! 🔥
+- **Today's Focus:** Explored Exploratory Data Analysis (EDA) visuals using **Matplotlib** and **NumPy**—built a scatter plot (`plt.scatter`) to inspect feature correlation and a histogram (`plt.hist`) to visualize synthetic score distributions.
+- **Next Up:** Upgrading to **Seaborn** for statistical visualizations and correlation heatmaps tomorrow!
