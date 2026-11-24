@@ -196,3 +196,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** 25-Day Milestone! 🔥
 - **Today's Focus:** Explored Exploratory Data Analysis (EDA) visuals using **Matplotlib** and **NumPy**—built a scatter plot (`plt.scatter`) to inspect feature correlation and a histogram (`plt.hist`) to visualize synthetic score distributions.
 - **Next Up:** Upgrading to **Seaborn** for statistical visualizations and correlation heatmaps tomorrow!
+
+
+---
+
+### Day 26 - November 24, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Upgraded to **Seaborn** (`sns`)—built a section-wise `boxplot` and computed a feature correlation matrix (`df.corr()`) visualized with an annotated `heatmap` to spot positive (`+1.0`) and negative (`-1.0`) feature relationships.
+- **Next Up:** Putting all our Python, Pandas, and visualization skills together in a mini Exploratory Data Analysis (EDA) capstone project tomorrow!
