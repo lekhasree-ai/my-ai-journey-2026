@@ -204,3 +204,11 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Upgraded to **Seaborn** (`sns`)—built a section-wise `boxplot` and computed a feature correlation matrix (`df.corr()`) visualized with an annotated `heatmap` to spot positive (`+1.0`) and negative (`-1.0`) feature relationships.
 - **Next Up:** Putting all our Python, Pandas, and visualization skills together in a mini Exploratory Data Analysis (EDA) capstone project tomorrow!
+
+
+---
+
+### Day 27 - November 25, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Completed an end-to-end Exploratory Data Analysis (EDA) mini-project—cleaned missing data with mean imputation, aggregated insights using `.groupby()`, and visualized relationships with Seaborn regression trendlines and correlation heatmaps.
+- **Next Up:** Moving forward in our AI & ML engineering path tomorrow!
