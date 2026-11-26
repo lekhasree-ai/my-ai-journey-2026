@@ -212,3 +212,12 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Completed an end-to-end Exploratory Data Analysis (EDA) mini-project—cleaned missing data with mean imputation, aggregated insights using `.groupby()`, and visualized relationships with Seaborn regression trendlines and correlation heatmaps.
 - **Next Up:** Moving forward in our AI & ML engineering path tomorrow!
+
+
+---
+
+### Day 28 - November 26, 2026
+- **Status:** Streak maintained! 🔥
+- **Today's Focus:** Stepped into **Machine Learning** with Scikit-Learn (`sklearn`)—trained a Simple Linear Regression model (`LinearRegression`), extracted model weights (`coef_` and `intercept_`), generated predictions with `.predict()`, and visualized the AI trendline over actual data.
+- **Next Up:** Evaluating model performance and introducing multi-feature regression tomorrow!
+- 
