@@ -228,3 +228,12 @@ Goal: Spend 15 minutes every single day building, learning, and documenting AI &
 - **Status:** Streak maintained! 🔥
 - **Today's Focus:** Learned how to evaluate Machine Learning models using Scikit-Learn metrics—calculated **Mean Squared Error (MSE)** to measure prediction error and **$R^2$ Score** to measure overall model fit.
 - **Next Up:** Stepping into Multi-Linear Regression with multiple features tomorrow!
+
+
+---
+
+### Day 30 - November 28, 2026
+- **Status:** 30-Day Milestone Achieved! 🎉🔥
+- **Today's Focus:** Stepped into **Multiple Linear Regression** with Scikit-Learn—trained an AI model using two features (`Study_Hours` and `Attendance`), extracted multiple feature coefficients (`model.coef_`), and generated multi-variable predictions with `.predict()`.
+- **Next Up:** Exploring data splitting and evaluation for Machine Learning models tomorrow!
+- 
